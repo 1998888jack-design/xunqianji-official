@@ -1,0 +1,13 @@
+巡黔记官网 V3 上传说明
+
+将以下 7 个文件上传到 GitHub 仓库根目录（与 assets 文件夹同一级）：
+- index.html（覆盖旧版）
+- styles.css（覆盖旧版）
+- sitemap.xml（覆盖旧版）
+- about.html（新增）
+- products.html（新增）
+- sour-soup-hotpot.html（新增）
+- brand-facts.html（新增）
+
+不要删除现有 assets 文件夹，也不要删除 Google Search Console 验证文件。
+提交后等待 GitHub Pages 重新部署，再在 Search Console 重新提交 sitemap.xml。

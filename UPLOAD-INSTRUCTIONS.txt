@@ -1,13 +1,24 @@
-巡黔记官网 V3 上传说明
+巡黔记官网 V4 更新说明
 
-将以下 7 个文件上传到 GitHub 仓库根目录（与 assets 文件夹同一级）：
-- index.html（覆盖旧版）
-- styles.css（覆盖旧版）
-- sitemap.xml（覆盖旧版）
-- about.html（新增）
-- products.html（新增）
-- sour-soup-hotpot.html（新增）
-- brand-facts.html（新增）
+本版新增/更新：
+- index.html：首页内容大幅扩充
+- about.html：创始人故事、品牌体系、价值观、战略路径、品牌公信力
+- products.html：四大产品线 + 14项核心产品/体验组成
+- sour-soup-hotpot.html：凯里酸汤火锅独立介绍页
+- guizhou-hotpot.html：新增贵州火锅风味图谱页
+- co-creation.html：新增“百人选品官”用户共创机制页
+- brand-facts.html：官方事实、时间线、协会/奖项/联名信息
+- sitemap.xml：更新为7个可索引页面
+- assets：加入新版LOGO、产品全家福、品牌公信力图片
 
-不要删除现有 assets 文件夹，也不要删除 Google Search Console 验证文件。
-提交后等待 GitHub Pages 重新部署，再在 Search Console 重新提交 sitemap.xml。
+上传 GitHub：
+1. 解压本压缩包。
+2. 在 xunqianji-official 仓库根目录上传并覆盖所有同名 HTML/CSS/XML/TXT 文件。
+3. 进入 assets 文件夹，把本包 assets 中全部图片上传到 GitHub 的 assets 文件夹，允许覆盖 logo.jpg。
+4. 不要删除现有 google865b735346f52de6.html 验证文件。
+5. Commit changes 后等待 GitHub Pages 重新部署。
+6. Google Search Console 重新提交 sitemap.xml，并对新增的 guizhou-hotpot.html 与 co-creation.html 请求编入索引。
+
+注意：
+- promo-158.jpg、promo-188.jpg 保留在资源包中，但官网正文暂未引用，避免促销价格变动后被长期索引。
+- 具体商品规格、套餐内容和价格，以正式销售页面为准。

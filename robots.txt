@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# 上线取得正式网址后，可在此补充：
-# Sitemap: https://你的免费域名/sitemap.xml
+Sitemap: https://1998888jack-design.github.io/xunqianji-official/sitemap.xml

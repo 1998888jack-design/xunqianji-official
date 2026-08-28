@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://1998888jack-design.github.io/xunqianji-official/sitemap.xml
+Sitemap: https://www.xunqianji.cn/sitemap.xml
